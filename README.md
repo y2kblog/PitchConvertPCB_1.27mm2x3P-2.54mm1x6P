@@ -14,12 +14,12 @@
 - 表面仕上げ：無鉛はんだ
 - 両面スル―ホール
 
-<!-- ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/xxxx/)  
-※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。   -->
+## 販売  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/6419/)(ボックスヘッダ付)  
+※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
 
 ## 寸法
 <img src="/images/dimension.jpg" width="150px">
 
 ## License
-MIT License, see LICENSE.txt.
+MIT License, see `/LICENSE`.
